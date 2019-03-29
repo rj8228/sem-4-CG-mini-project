@@ -1,0 +1,2 @@
+# sem-4-CG-mini-project
+C IMPLEMENTATION OF DOUBLE PENDULUM.
